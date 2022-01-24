@@ -1,2 +1,2 @@
 # Trillo
-It is an Udemy front-end project about a property company web page.
+It is another Udemy front-end project about a travel agency web page.
